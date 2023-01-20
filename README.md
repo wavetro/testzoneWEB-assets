@@ -2,7 +2,7 @@
 
 *If you're just looking for the source code, you'll want [this repo](https://github.com/wavetro/testzone) instead.*
 
-📁 **To use these files with the source code, simply add them to the root folder(s) of their corresponding project files.** *(Be sure to maintain the original folder integrity of the assets. For example, some assets need to stay in a `/public/files` subdirectory to work properly.)*
+📁 **When using these files to build from source, be sure to maintain their existing folder structures.** For example, anything in a `/public/files` subdirectory needs to stay that way.
 
 ---------------------------------------------------------------------------
 

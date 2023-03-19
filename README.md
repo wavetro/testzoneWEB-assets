@@ -1,6 +1,6 @@
 # WAVETRO TEST ZONE (Assets)
 
-*If you're just looking for the source code, you'll want [this repo](https://github.com/wavetro/testzone) instead.*
+*If you're just looking for the source code, you'll want [this repo](https://github.com/wavetro/testzoneWEB) instead.*
 
 📁 **When using these files to build from source, be sure to maintain their existing folder structures.** For example, anything in a `/public/files` subdirectory needs to stay that way.
 
